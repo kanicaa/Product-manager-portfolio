@@ -15,20 +15,20 @@ The carbon offset program supports Mastercard’s commitment to sustainability a
 As awareness of climate change rises, millennials and Gen Z are actively seeking financial products that reflect their values. With an estimated 60 million potential users in the US alone, GreenCard can capture a significant portion of the market by offering a transparent, measurable, and rewarding carbon offset solution. Competitors may offer standard rewards, but few provide a clear environmental benefit tied directly to spending.
 
 **Target Audience & User Segments:**  
-- **Primary Persona:** Millennials like Carly – environmentally conscious, tech-savvy, and eager to track and reduce their carbon footprint.  
+- **Primary Persona:** Millennials like David – environmentally conscious, tech-savvy, and eager to track and reduce their carbon footprint.  
 - **Secondary Segments:** Gen Z consumers, eco-conscious corporates seeking CSR initiatives, and sustainability-focused travelers.
 
 ## 3. User Personas & Journeys
-**Persona Example: Carly**  
+**Persona Example: David**  
 - **Profile:** 32-year-old Software Engineer from Boston, MA, with a strong commitment to sustainability.  
 - **Goals:** Reduce her carbon footprint, support eco-friendly brands, and share her positive environmental impact with her network.  
 - **Challenges:** Complex calculation of carbon offsets, inconsistent acceptance of eco-friendly rewards across retailers, and concerns around data privacy.
 
 **User Journey Highlights:**  
-- **Awareness:** Carly learns about GreenCard through targeted digital campaigns and explainer videos that demonstrate how every purchase contributes to carbon offsets.  
+- **Awareness:** David learns about GreenCard through targeted digital campaigns and explainer videos that demonstrate how every purchase contributes to carbon offsets.  
 - **Engagement:** Upon card activation, she accesses a personalized dashboard that tracks her spending and displays real-time carbon offset contributions.  
-- **Action:** As Carly makes everyday purchases—from groceries to travel—she sees her cumulative environmental impact and receives bonus rewards for sustainable spending.  
-- **Advocacy:** Impressed by transparent insights and tangible rewards, Carly shares her experience on social media, inspiring her peers to adopt the card.
+- **Action:** As David makes everyday purchases—from groceries to travel—she sees her cumulative environmental impact and receives bonus rewards for sustainable spending.  
+- **Advocacy:** Impressed by transparent insights and tangible rewards, David shares her experience on social media, inspiring her peers to adopt the card.
 
 ## 4. Success Metrics & KPIs
 - **Business Metrics:**  
