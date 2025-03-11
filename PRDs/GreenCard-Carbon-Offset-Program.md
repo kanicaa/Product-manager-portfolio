@@ -14,20 +14,20 @@ This program supports Mastercard’s commitment to sustainability and innovation
 As consumers become increasingly eco-aware, AI-driven solutions that provide transparency and personalized insights are highly attractive. With millions of potential eco-conscious users, GreenCard stands to capture significant market share by offering a data-driven, engaging carbon offset solution complemented by a virtual eco-assistant.
 
 **Target Audience & User Segments:**  
-- **Primary Persona:** Millennials like Carly—tech-savvy, environmentally conscious, and data-driven.
+- **Primary Persona:** Millennials like David—tech-savvy, environmentally conscious, and data-driven.
 - **Secondary Segments:** Gen Z consumers, eco-conscious corporates, and sustainability-focused travelers.
 
 ## 3. User Personas & Journeys
-**Persona Example: Carly**  
-- **Profile:** 32-year-old Software Engineer from Boston, MA, committed to reducing her carbon footprint.
-- **Goals:** Track and minimize her environmental impact while enjoying financial benefits.
+**Persona Example: David**  
+- **Profile:** 32-year-old Software Engineer from Boston, MA, committed to reducing his carbon footprint.
+- **Goals:** Track and minimize his environmental impact while enjoying financial benefits.
 - **Challenges:** Difficulty in calculating carbon offsets and interpreting sustainability data.
 
 **User Journey Highlights:**  
-- **Onboarding:** Carly learns about GreenCard through targeted digital campaigns, watches an explainer video, and receives an AI-powered walkthrough.
-- **Daily Use:** After every transaction, she views real-time updates of her carbon offset contributions and receives personalized eco-tips. She also interacts with the AI chatbot to ask questions or get tailored recommendations.
-- **Engagement:** Over time, Carly receives insights on how to improve her sustainability score and participates in community challenges that reward eco-friendly behavior.
-- **Advocacy:** Impressed by the transparency and tangible rewards, Carly shares her progress on social media, inspiring her network to adopt the card.
+- **Onboarding:** David learns about GreenCard through targeted digital campaigns, watches an explainer video, and receives an AI-powered walkthrough.
+- **Daily Use:** After every transaction, he views real-time updates of her carbon offset contributions and receives personalized eco-tips. She also interacts with the AI chatbot to ask questions or get tailored recommendations.
+- **Engagement:** Over time, David receives insights on how to improve his sustainability score and participates in community challenges that reward eco-friendly behavior.
+- **Advocacy:** Impressed by the transparency and tangible rewards, David shares his progress on social media, inspiring his network to adopt the card.
 
 ## 4. Success Metrics & KPIs
 - **Business Metrics:**  
