@@ -18,7 +18,7 @@ Empower our community of book and coffee enthusiasts to elevate their daily expe
 - Opportunity to capture market share among lifestyle and leisure apps targeting millennials and Gen Z.
 
 **Target Audience & User Segments:**  
-- **Primary Persona:** Avid readers and coffee lovers (millennials, Gen Z) seeking unique, tailored experiences.
+- **Primary Persona:** Avid readers and coffee lovers seeking unique, tailored experiences.
 - **Secondary Segments:** Casual enthusiasts looking for inspiration in their daily routines and content creators in the lifestyle space.
 
 ## 3. User Personas & Journeys
@@ -154,7 +154,3 @@ Empower our community of book and coffee enthusiasts to elevate their daily expe
   - Detailed diagrams of system architecture, API endpoints, and data flow.
 - **User Stories:**  
   - In-depth narratives outlining user interactions from onboarding to feedback.
-
----
-
-*This PRD details the "Book & Coffee Pairing Suggestions" feature, combining advanced AI and machine learning capabilities to deliver a unique, personalized experience. It provides a clear plan from concept to launch, ensuring that users receive engaging, context-aware recommendations that enhance their everyday enjoyment of books and coffee.*
