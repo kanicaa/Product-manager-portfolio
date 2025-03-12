@@ -69,7 +69,7 @@ Empower our community of book and coffee enthusiasts to elevate their daily expe
   - Create a daily or weekly digest of recommended pairings tailored to user history.
 
 ### Acceptance Criteria
-- Recommendations must load within 2 seconds.
+- Recommendations must load within 5 seconds.
 - The AI model should achieve at least 85% accuracy in matching user preferences based on pilot testing.
 - User satisfaction rating for pairings must average 4 out of 5 or higher.
 - The feature must be accessible on both mobile and desktop platforms.
